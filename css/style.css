@@ -65,6 +65,13 @@
   font-size: 16px
 }
 
+#research-experience {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #ffffff;
+  font-size: 16px
+}
+
 #projects {
   padding-top: 80px;
   padding-bottom: 80px;
@@ -99,8 +106,8 @@
 }
 
 .navbar {
-  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
-  color: white;
+  background: #4285F4;
+  color: black;
   padding: 0px;
   font-size: 16px;
   font-color: white;
