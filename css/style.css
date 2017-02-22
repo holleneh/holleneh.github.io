@@ -58,6 +58,12 @@
   padding-bottom: 30px;
 }
 
+#art {
+  background-size: contains;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 #experience {
   padding-top: 80px;
   padding-bottom: 80px;
@@ -106,19 +112,18 @@
 }
 
 .navbar {
-  background: #4285F4;
-  color: black;
+  /*background: #fff;*/
   padding: 0px;
   font-size: 16px;
-  font-color: white;
+  /*font-color: white;*/
 }
 
 a:link, a:visited {
   text-decoration: none;
-  color: white;
+  /*color: white;*/
 }
 
 a:hover, a:active {
   text-decoration: underline;
-  color: white;
+  /*color: white;*/
 }
